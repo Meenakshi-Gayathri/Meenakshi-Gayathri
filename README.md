@@ -18,7 +18,7 @@
 ---
 
 - 🌱 **I’m currently learning**:  
-  - R Programming  
+  - Java Programming  
   - Ethical Hacking in Cybersecurity  
   <p align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming Animation" width="400" />
