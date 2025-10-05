@@ -26,7 +26,7 @@
   </p>
 
 - 📫 **How to reach me**:  
-  - **Email**: meenakshigayathri26@gmail.com  
+  - **Email**: smeenakshigayathri26@gmail.com  
 
 ---
 
