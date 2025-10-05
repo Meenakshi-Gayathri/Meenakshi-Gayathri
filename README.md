@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Meenakshi Gayathri.S</h1>
-<h3 align="center">I am a hardworking and enthusiastic college student currently pursuing B.Tech in Computer Science Engineering with specialization in Computer Networking. I seek to acquire knowledge in related technologies and contribute to the organization's growth through the expertise gained.</h3>
+<h3 align="center">👋I’m a Computer Science Engineering graduate specializing in Computer Networking.
+💡 Passionate about AI/ML, Cybersecurity, and Networking Systems.
+🔭 Currently working on Generative AI projects and exploring LLM-based integrations.
+⚙️ I enjoy building intelligent, secure, and scalable solutions that connect innovation with real-world impact.</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Professional Greeting" width="600" />
