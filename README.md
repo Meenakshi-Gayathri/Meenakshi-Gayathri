@@ -23,8 +23,10 @@
 ---
 
 - 🌱 **I’m currently learning**:  
-  - Java Programming  
-  - Ethical Hacking in Cybersecurity  
+  - Generative AI  
+  - Artificial Intelligence and Machine Learning
+  - Java Programming
+  - Ethical Hacking in Cybersecurity
   <p align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming Animation" width="400" />
     <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Cybersecurity Animation" width="400" />
